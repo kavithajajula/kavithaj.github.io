@@ -1,0 +1,58 @@
+nav {
+  display: flex;
+  position: fixed;
+  left: 93%;
+  top: 80px;
+  width: 100%;
+  overflow: auto;
+}
+
+body {
+  background-image: url(../images/work.jpg);
+}
+
+.img:hover {
+  box-shadow: 0 0 5px 5px lightcoral;
+  filter: unset;
+}
+
+.page-title {
+  color: black;
+  text-align: center;
+  margin-top: 30px;
+}
+
+h2 {
+  font-size: 20px;
+}
+h3 {
+  font-size: 18px;
+}
+
+@media (max-width: 414px) {
+  .container {
+    width: 70%;
+  }
+  .navbar-nav {
+    display: flex;
+    position: fixed;
+    left: 83%;
+    top: 80px;
+    width: 100%;
+    overflow: auto;
+  }
+}
+
+@media (max-width: 768px) {
+  .container {
+    width: 80%;
+  }
+  .vertical-nav {
+    display: flex;
+    position: fixed;
+    left: 90%;
+    top: 80px;
+    width: 100%;
+    overflow: auto;
+  }
+}
