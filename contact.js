@@ -1,3 +1,4 @@
+//Contact Form Javascript File
 let form = document.querySelector("form");
 
 form.addEventListener("submit", handleSubmit);

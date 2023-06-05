@@ -75,9 +75,11 @@ p {
     width: 65%;
     max-width: 100%;
   }
+
   h2 {
     padding-left: 70px;
   }
+
   .vertical-nav {
     display: flex;
     position: fixed;

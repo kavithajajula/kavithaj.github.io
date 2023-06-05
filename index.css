@@ -3,7 +3,6 @@
   display: block;
   max-width: 80%;
   margin: auto;
-  background-color: none;
   flex-wrap: wrap;
   padding: 40px 0px 100px 0px;
 }
@@ -51,10 +50,12 @@ body {
     width: 75%;
     max-width: 100%;
   }
+
   .content {
     display: grid;
     flex-direction: row;
   }
+
   .navbar-nav {
     display: flex;
     position: fixed;

@@ -2,7 +2,11 @@
 
 Github Url for the Project :
 
-https://github.com/kavithajajula/kavithaj.github.io
+https://github.com/kavithajajula/web_dev_project
+
+Deployed URL :
+
+https://kavithajajula.github.io/web_dev_project/
 
 Steps to execute the project.
 
