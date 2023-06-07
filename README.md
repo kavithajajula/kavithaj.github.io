@@ -17,7 +17,7 @@ Steps to execute the project.
 
 References:
 
-https://www.w3schools.com/howto/howto_css_vertical_menu.asp
-https://linuxhint.com/create-vertical-navigation-menu-with-css/
-https://www.javatpoint.com/download-pdf-file-using-html
-https://www.w3schools.com/howto/howto_css_cards.asp
+1. https://www.w3schools.com/howto/howto_css_vertical_menu.asp
+2. https://linuxhint.com/create-vertical-navigation-menu-with-css/
+3. https://www.javatpoint.com/download-pdf-file-using-html
+4. https://www.w3schools.com/howto/howto_css_cards.asp
